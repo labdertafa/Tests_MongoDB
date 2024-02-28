@@ -1,0 +1,4 @@
+com\laboratorio\testmongo\Conexion.class
+com\laboratorio\testmongo\entidad\Cliente.class
+com\laboratorio\testmongo\TestMongo.class
+com\laboratorio\testmongo\entidad\Articulo.class

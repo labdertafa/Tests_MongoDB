@@ -1,0 +1,6 @@
+com\laboratorio\crudmongo\model\Articulo.class
+com\laboratorio\crudmongo\JakartaRestConfiguration.class
+com\laboratorio\crudmongo\resources\JakartaEE10Resource.class
+com\laboratorio\crudmongo\repository\MongoConnection.class
+com\laboratorio\crudmongo\controller\PersonasController.class
+com\laboratorio\crudmongo\configuration\PropertiesFile.class
